@@ -1,0 +1,14 @@
+img{
+					outline: 100;
+					border-radius: 1000px;
+					background: #0005ff;
+					padding: 5px;
+					box-sizing: 100px;
+					width: 350px;
+					height: 250px;
+					margin: 550px auto 1px;
+}
+.ishan{
+					font-size: 40px;
+					position: relative; 
+}
